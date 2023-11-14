@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    max-width: 1920px;
+}
+.navigation{
+display: flex;
+max-width: 1920px;
+align-items: center;
+font-size: 32px;
+box-sizing: border-box;
+
+
+}
+.info{
+    text-decoration: none;
+    color: white;
+    margin-left: 209px;
+    width: 72px;
+    height: 38px;
+}
+.about{
+    color: white;
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 114px;
+width: 103px;
+height: 38px;
+   
+}
+.contact{
+    color: white;
+    text-decoration: none;
+    margin-left: 496px;
+    width: 144px;
+    height: 38px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 329px;
+    width: 266px;
+    height: 81px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    width: 450px;
+    height: 70px;
+    background-color: white;
+    transition: 0.3s;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left:1200px ;
+    margin-top : 600px;
+    color: black;
+}
+.line1{
+margin-left: 209px;
+}
+.btn:hover{
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    transition: 0.3s;
+    transform: scale(1.1);
+
+}
+.ph1{ 
+    position: absolute;
+    height: 665px;
+    width: 443px;
+    margin-top: 45px;
+    margin-left: 326px;
+}
+.ph2{
+    height: 628px;
+    width: 502px;
+    margin-left: 1051px;
+    margin-top: 287px; 
+}
+.podph{
+    position: absolute;
+    height: 550px;
+    width: 754px;
+    color: white;
+    margin-left: 230px;
+    margin-top: 200px;
+    font-size: 55px;
+}
+.m{
+    text-align: start;
+}
+.olis{
+    text-align: right;
+}
+.em{
+    text-align: left;
+}
+.phst{
+    color: white;
+    margin-left: 933px;
+    margin-top: 121px;
+    position: absolute;
+    font-size: 55px;
+}
+.line1{
+    margin-left: 209px;
+    margin-top: 48px;
+}
+.lorem{
+    position: absolute;
+    font-size: 32px;
+    margin-left:326px;
+    margin-top: 770px;
+    color: white;
+    width: 628px;
+    height: 88px;
+}
+
